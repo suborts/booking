@@ -1,3 +1,1 @@
-# Booking Project
-
-Initial commit to initialize the repository.
+# Welcome to your Lovable project

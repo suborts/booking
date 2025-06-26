@@ -1,0 +1,11 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "description": "Booking project generated from local journey-planner-prompts-main codebase",
+  "main": "dist/api-server.cjs",
+  "scripts": {
+    "start": "node dist/api-server.cjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
