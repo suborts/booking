@@ -1,0 +1,1 @@
+// HotelMap component

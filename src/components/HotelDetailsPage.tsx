@@ -1,0 +1,1 @@
+// HotelDetailsPage component
